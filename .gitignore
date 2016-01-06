@@ -16,4 +16,4 @@ log/
 target/
 
 #images
-images/
+images/*
